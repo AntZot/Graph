@@ -91,6 +91,17 @@ class Graph{
 
     /**
      *
+     * @return
+     */
+    public Boolean Contains(){
+
+        return false;
+    }
+
+
+
+    /**
+     *
      * @return all elements Graph
      */
     @Override
